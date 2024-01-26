@@ -14,15 +14,15 @@ Education
 * B.S. in University of Science and Technology of China (USTC) from 2018 to 2022, majored in Physics
 * Ph.D candidate in University of Hong Kong, from 2022 to now, majored in Electronic Engineering
 
-Work experience
+Reseach Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Non-linear Function Generation by RRAM-based ADC
+  * 2022.11-2023.07
+  * In a MANN based Few-shot learning task implemnted on circuits, ADCs are required to help calculate Hamming Distance between Query set and Support set. The accuracy of NN inference, however, will exponetially decrease when ADC precision is limited. Thus, we need a RRAM-based ADC to non-linearly transfer the Hamming distance distribution to a uniform ditribution. This work obviously improve inference accuracy when ADC precision is limited.
+  * Supervisor: Assistant Prof. Can Li
 
-* Fall 2015: Research Assistant
-  * Github University
+* Efficient Transformer implemented on circuit.
+  * 2023.07-Now
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
